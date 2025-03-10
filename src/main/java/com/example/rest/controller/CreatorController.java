@@ -1,4 +1,4 @@
-package com.example.rest.сontroller;
+package com.example.rest.controller;
 
 import com.example.rest.dto.CreatorRequestTo;
 import com.example.rest.dto.CreatorResponseTo;
